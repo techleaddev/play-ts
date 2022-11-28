@@ -58,6 +58,7 @@ Ví dụ. Khi ta sử dụng hàm chia divide(3,2) kết quả mong đợi là 1
 ### 9. Viết chương trình giải phương trình bậc 2: ax2 + bx + c = 0.
 ### 10. Viết một chương trình tính giai thừa của một số nguyên dương n. Với n được nhập từ bàn phím. Ví dụ, n = 8 thì kết quả đầu ra phải là ```1*2*3*4*5*6*7*8 = 40320```.
 
- 
-
-
+### 11. Đảo ngược mảng dữ liệu
+- Tạo ô input nhập vào text sau đó convert sang dạng json phía code 
+- Viết chưng trình hoán đổi vị trí key và value trong object đồng thời đảo ngược lại object 
+- Vd: ```{ 'a': 3, 'b': 2, 'c': 1 }``` => ``` { '1': 'c', '2': 'b', '3': 'a' }```
