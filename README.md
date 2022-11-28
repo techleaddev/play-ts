@@ -56,6 +56,7 @@ Ví dụ. Khi ta sử dụng hàm chia divide(3,2) kết quả mong đợi là 1
 
 ### 8. Viết chương trình tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn 10 và 200 (tính cả 10 và 200). Các số thu được sẽ được in thành chuỗi trên một dòng, cách nhau bằng dấu phẩy
 ### 9. Viết chương trình giải phương trình bậc 2: ax2 + bx + c = 0.
+### 10. Viết một chương trình tính giai thừa của một số nguyên dương n. Với n được nhập từ bàn phím. Ví dụ, n = 8 thì kết quả đầu ra phải là ```1*2*3*4*5*6*7*8 = 40320```.
 
  
 
